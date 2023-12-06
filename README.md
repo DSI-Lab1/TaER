@@ -11,3 +11,4 @@ A simple way is to run MainTestNONEPI_plus.java / MainTestNONEPI_star.java / Mai
 The data format used is the same as in the file data.txt. That is, different positive integers represent different terms. 
 In addition, The number before the separator '|' represents the item, and the number after the separator '|' represents the timestamp.
 Additional datasets used in the paper can be accessed from the branch of datasets.
+File "contextPaper_event.txt" is the sample dataset used in the paper.
