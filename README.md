@@ -1,5 +1,5 @@
 # TaER
-This repo hosts the code for paper "Zefeng Chen, Wensheng Gan: Enhanced Episode Rule Mining with Non-overlapping Frequency and Targeted Query. Submitted to INS, pp 1-17 (2023)."
+This repo hosts the code for the paper "Zefeng Chen, Wensheng Gan: Enhanced Episode Rule Mining with Non-overlapping Frequency and Targeted Query. Submitted to INS, pp 1-17 (2023)."
 
 # Requirements
 Java programming language.
